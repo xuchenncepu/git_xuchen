@@ -10,3 +10,4 @@ hehehehehehe
 newnenwnenwnen
 
 into github
+Creating a new branch is quick AND simple.
